@@ -1,3 +1,5 @@
+
+
 # File Integrity Checker
 
 A Python-based cybersecurity tool that verifies the integrity of application and log files using SHA-256 cryptographic hashing.
@@ -24,3 +26,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/darshan4518216-create/file-integrity-checker.git
 cd file-integrity-checker
+
+## Project URL
+https://github.com/darshan4518216-create/file-integrity-checker
