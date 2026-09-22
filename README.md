@@ -26,6 +26,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/darshan4518216-create/file-integrity-checker.git
 cd file-integrity-checker
+'''
 
 ## Project URL
 https://github.com/darshan4518216-create/file-integrity-checker
